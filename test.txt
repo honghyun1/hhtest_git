@@ -1,8 +1,1 @@
-<<<<<<< Updated upstream
-이것은 스파르타 깃 테스트용 메모장입니다.
-test
-
-test2
-=======
 테스트용 하이빵가루 메모장
->>>>>>> Stashed changes
